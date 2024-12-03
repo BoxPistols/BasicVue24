@@ -28,4 +28,7 @@ import ToolingIcon from './icons/IconTooling.vue'
     <br />
     More instructions are available in <code>README.md</code>.
   </WelcomeItem>
+
+  <button class="btn">Hello daisyui</button>
+  <button class="btn btn-primary">Hello daisyui</button>
 </template>
